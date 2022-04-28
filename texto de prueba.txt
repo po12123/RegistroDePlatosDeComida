@@ -1,0 +1,2 @@
+esta linea de texto se realizo desde la rama1 (se corrigio "relizo" por "realizo" en la rama2)
+esta linea de texto se realizo desde la rama2
